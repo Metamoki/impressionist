@@ -1,2 +1,2 @@
-class Impression
+class Impression < ActiveRecord::Base
 end
